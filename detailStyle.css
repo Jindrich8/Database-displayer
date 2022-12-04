@@ -1,0 +1,13 @@
+
+td:empty::after, td ul:empty::after{
+    content:"-";
+
+}
+.back::before{
+content:'<-- ';
+}
+
+th{
+  vertical-align: text-top;
+  padding-right:15px;
+}

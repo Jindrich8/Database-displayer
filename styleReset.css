@@ -1,0 +1,10 @@
+ul,li,a,p,span,div,table,ol, legend,tbody,tr,td,th,footer,header,body,main{
+    margin:0;
+    padding:0;
+    text-align: start;
+}
+
+
+ul,ol{
+    list-style-type:none;
+}
